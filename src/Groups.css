@@ -1,0 +1,29 @@
+.maindiv{
+    margin:10px;
+}
+
+.divone button{
+    border-radius: 5px;
+    padding:8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left:12px;
+}
+
+.groupnames{
+    display: inline-block;
+    margin:1%;
+    
+}
+
+.links{
+    text-decoration: none;
+    color: #181616;
+    border:1px solid #181616;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius:5px;
+    
+}
